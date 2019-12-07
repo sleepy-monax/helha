@@ -1,0 +1,525 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet href="stage.xsl" type="text/xsl"?>
+<stages>
+    <stage>
+        <fonction >
+            assistance technique, commerciale, financière et administrative aux sociétés ou entreprises du groupe
+        </fonction>
+        <etudiant>
+            <nom>Boursin</nom>
+            <prenom>Aurélie</prenom>
+            <section>informatique</section>
+            <classe>3BI</classe>
+        </etudiant>
+        <entreprise>
+            <nom>Fidexis</nom>
+            <adresse>
+                <localite>BRUXELLES</localite>
+                <nom>rue de la Charité</nom>
+                <numero> 13-17</numero>
+                <codepostal>1210</codepostal>
+            </adresse>
+            <tel>02/209-02-73</tel>
+            <responsable-stagiaire>
+                <civilite>Mr</civilite>
+                <nom>Libert</nom>
+            </responsable-stagiaire>
+            <responsable-service>
+                <civilite>Mr</civilite>
+                <nom>Duez Claude</nom>
+            </responsable-service>
+        </entreprise>
+    </stage>
+    <stage>
+        <fonction >nan</fonction>
+        <etudiant>
+            <nom>Cambier</nom>
+            <prenom>Marylène</prenom>
+            <section>informatique</section>
+            <classe>3BI</classe>
+        </etudiant>
+        <entreprise>
+            <nom>Pixelixir sprl</nom>
+            <adresse>
+                <localite>WAVRE</localite>
+                <nom>Venelle de Terlongval</nom>
+                <numero> 45</numero>
+                <codepostal>1300</codepostal>
+            </adresse>
+            <tel>0496/124857</tel>
+            <responsable-stagiaire>
+                <civilite>Me</civilite>
+                <nom>Dumont</nom>
+            </responsable-stagiaire>
+            <responsable-service>
+                <civilite>Mr</civilite>
+                <nom>Dumont</nom>
+            </responsable-service>
+        </entreprise>
+    </stage>
+    <stage>
+        <fonction >nan</fonction>
+        <etudiant>
+            <nom>Coupet</nom>
+            <prenom>Cindy</prenom>
+            <section>informatique</section>
+            <classe>3BI</classe>
+        </etudiant>
+        <entreprise>
+            <nom>Scius - ICT</nom>
+            <adresse>
+                <localite>GENVAL</localite>
+                <nom>Avenue Franklin Roosevelt</nom>
+                <numero> 104</numero>
+                <codepostal>1332</codepostal>
+            </adresse>
+            <tel>0477/277211</tel>
+            <responsable-stagiaire>
+                <civilite>Mr</civilite>
+                <nom>Ernoux</nom>
+            </responsable-stagiaire>
+            <responsable-service>
+                <civilite>Mr</civilite>
+                <nom>Eeckout</nom>
+            </responsable-service>
+        </entreprise>
+    </stage>
+    <stage>
+        <fonction >achat et vente de matériel informatique et télématique</fonction>
+        <etudiant>
+            <nom>Delbove</nom>
+            <prenom>Florence</prenom>
+            <section>informatique</section>
+            <classe>3BI</classe>
+        </etudiant>
+        <entreprise>
+            <nom>Systemat S.A.</nom>
+            <adresse>
+                <localite>LASNE</localite>
+                <nom>Chaussée de Louvain</nom>
+                <numero> 435 </numero>
+                <codepostal>1380</codepostal>
+            </adresse>
+            <tel>02/4057000</tel>
+            <responsable-stagiaire>
+                <civilite>Mr</civilite>
+                <nom>Marques</nom>
+            </responsable-stagiaire>
+            <responsable-service>
+                <civilite>Mr</civilite>
+                <nom>Emmanuel GOFFAUX</nom>
+            </responsable-service>
+        </entreprise>
+    </stage>
+    <stage>
+        <fonction >Consultance en IT</fonction>
+        <etudiant>
+            <nom>Detie</nom>
+            <prenom>Charlotte</prenom>
+            <section>informatique</section>
+            <classe>3BI</classe>
+        </etudiant>
+        <entreprise>
+            <nom>ECS - Hermès</nom>
+            <adresse>
+                <localite>NIVELLES</localite>
+                <nom>Rue de l'Industrie </nom>
+                <numero> 20 </numero>
+                <codepostal>1400</codepostal>
+            </adresse>
+            <tel>0479/670016</tel>
+            <responsable-stagiaire>
+                <civilite>Mr</civilite>
+                <nom>De Neve</nom>
+            </responsable-stagiaire>
+            <responsable-service>
+                <civilite>Mr</civilite>
+                <nom>Eric Mrzyglod</nom>
+            </responsable-service>
+        </entreprise>
+    </stage>
+    <stage>
+        <fonction >nan</fonction>
+        <etudiant>
+            <nom>Di Costa</nom>
+            <prenom>Estelle</prenom>
+            <section>informatique</section>
+            <classe>3BI</classe>
+        </etudiant>
+        <entreprise>
+            <nom>T.D. Williamson S.A.</nom>
+            <adresse>
+                <localite>NIVELLES</localite>
+                <nom>rue du Travail</nom>
+                <numero> 6 </numero>
+                <codepostal>1400</codepostal>
+            </adresse>
+            <tel>067/21.36.29</tel>
+            <responsable-stagiaire>
+                <civilite>Mr</civilite>
+                <nom>Vellek</nom>
+            </responsable-stagiaire>
+            <responsable-service>
+                <civilite>Mr</civilite>
+                <nom>Ernoux</nom>
+            </responsable-service>
+        </entreprise>
+    </stage>
+    <stage>
+        <fonction>
+        nan
+        </fonction>
+        <etudiant>
+            <nom>Francart</nom>
+            <prenom>David</prenom>
+            <section>informatique</section>
+            <classe>3BI</classe>
+        </etudiant>
+        <entreprise>
+            <nom>FABRICOM-GTI</nom>
+            <adresse>
+                <localite>BRAINE L'ALLEUD</localite>
+                <nom>Chaussée de Tubize</nom>
+                <numero> 489</numero>
+                <codepostal>1420</codepostal>
+            </adresse>
+            <tel>0478/154258</tel>
+            <responsable-stagiaire>
+                <civilite>Mr</civilite>
+                <nom>Lecocq</nom>
+            </responsable-stagiaire>
+            <responsable-service>
+                <civilite>Mr</civilite>
+                <nom>Ernst Vincent</nom>
+            </responsable-service>
+        </entreprise>
+    </stage>
+    <stage>
+        <fonction >
+        développements open source
+        </fonction>
+        <etudiant>
+            <nom>Grumiaux</nom>
+            <prenom>Nathan</prenom>
+            <section>informatique</section>
+            <classe>3BI</classe>
+        </etudiant>
+        <entreprise>
+            <nom>Arafox SCRL</nom>
+            <adresse>
+                <localite>TUBIZE</localite>
+                <nom>Avenue Leon Champagne</nom>
+                <numero> 2</numero>
+                <codepostal>1480</codepostal>
+            </adresse>
+            <tel>023/91.45.51</tel>
+            <responsable-stagiaire>
+                <civilite>Me</civilite>
+                <nom>Aventure</nom>
+            </responsable-stagiaire>
+            <responsable-service>
+                <civilite>Mr</civilite>
+                <nom>Fabian Boiteux</nom>
+            </responsable-service>
+        </entreprise>
+    </stage>
+    <stage>
+        <fonction >
+        Security and Open Source consultant
+        </fonction>
+        <etudiant>
+            <nom>Henry</nom>
+            <prenom>Xavier</prenom>
+            <section>informatique</section>
+            <classe>3BI</classe>
+        </etudiant>
+        <entreprise>
+            <nom>Stone-IT</nom>
+            <adresse>
+                <localite>ZAVENTEM</localite>
+                <nom>Minervastraat</nom>
+                <numero> 14 </numero>
+                <codepostal>1930</codepostal>
+            </adresse>
+            <tel>02/720.88.35</tel>
+            <responsable-stagiaire>
+                <civilite>Mr</civilite>
+                <nom>Ronse</nom>
+            </responsable-stagiaire>
+            <responsable-service>
+                <civilite>Mr</civilite>
+                <nom>Fagnart</nom>
+            </responsable-service>
+        </entreprise>
+    </stage>
+    <stage>
+        <fonction >retransmissions mondiales des événements sportifs</fonction>
+        <etudiant>
+            <nom>Lavenne</nom>
+            <prenom>Florentin</prenom>
+            <section>informatique</section>
+            <classe>3BI</classe>
+        </etudiant>
+        <entreprise>
+            <nom>T-Systems</nom>
+            <adresse>
+                <localite>ZAVENTEM</localite>
+                <nom>Atlas Park</nom>
+                <numero> 41 </numero>
+                <codepostal>1930</codepostal>
+            </adresse>
+            <tel>02/716.81.68</tel>
+            <responsable-stagiaire>
+                <civilite>Mr</civilite>
+                <nom>Van Snick</nom>
+            </responsable-stagiaire>
+            <responsable-service>
+                <civilite>Mr</civilite>
+                <nom>Feye Benjamin</nom>
+            </responsable-service>
+        </entreprise>
+    </stage>
+    <stage>
+        <fonction >Conception, construction et exploitation d’un réseau de radiotéléphones </fonction>
+        <etudiant>
+            <nom>Legrand</nom>
+            <prenom>Olivier</prenom>
+            <section>informatique</section>
+            <classe>3BI</classe>
+        </etudiant>
+        <entreprise>
+            <nom>Alcatel Bell S.A. Namur</nom>
+            <adresse>
+                <localite>NAMUR</localite>
+                <nom>Bld Comte De Smet De Nayer</nom>
+                <numero> 14</numero>
+                <codepostal>5000</codepostal>
+            </adresse>
+            <tel>081/23.52.08</tel>
+            <responsable-stagiaire>
+                <civilite>Mr</civilite>
+                <nom>Verdonck</nom>
+            </responsable-stagiaire>
+            <responsable-service>
+                <civilite>nan</civilite>
+                <nom>Fouad Riane</nom>
+            </responsable-service>
+        </entreprise>
+    </stage>
+    <stage>
+        <fonction >la vente (fourniture) d’électricité aux clients raccordés au réseau</fonction>
+        <etudiant>
+            <nom>Lenoir</nom>
+            <prenom>Sébastien</prenom>
+            <section>informatique</section>
+            <classe>3BI</classe>
+        </etudiant>
+        <entreprise>
+            <nom>Electrabel Distribution Wallonie</nom>
+            <adresse>
+                <localite>NAMUR</localite>
+                <nom>Avenue Albert 1er   </nom>
+                <numero> 19     </numero>
+                <codepostal>5000</codepostal>
+            </adresse>
+            <tel>081/24.42.63</tel>
+            <responsable-stagiaire>
+                <civilite>Mr</civilite>
+                <nom>Bailleux</nom>
+            </responsable-stagiaire>
+            <responsable-service>
+                <civilite>Mr</civilite>
+                <nom>François Lecardonnel</nom>
+            </responsable-service>
+        </entreprise>
+    </stage>
+    <stage>
+        <fonction >nan</fonction>
+        <etudiant>
+            <nom>Maréchal</nom>
+            <prenom>Jonas</prenom>
+            <section>informatique</section>
+            <classe>3BI</classe>
+        </etudiant>
+        <entreprise>
+            <nom>Province de Namur : Service Informatique et Télécommunications</nom>
+            <adresse>
+                <localite>NAMUR</localite>
+                <nom>Rempart de la Vierge</nom>
+                <numero>2 </numero>
+                <codepostal>5000</codepostal>
+            </adresse>
+            <tel>081/257036</tel>
+            <responsable-stagiaire>
+                <civilite>Mr</civilite>
+                <nom>Van de Wiele</nom>
+            </responsable-stagiaire>
+            <responsable-service>
+                <civilite>Mr</civilite>
+                <nom>Frederik Pardon</nom>
+            </responsable-service>
+        </entreprise>
+    </stage>
+    <stage>
+        <fonction >Designs, engineers, and manufactures custom communications products</fonction>
+        <etudiant>
+            <nom>Marreda</nom>
+            <prenom>Florent</prenom>
+            <section>informatique</section>
+            <classe>3BI</classe>
+        </etudiant>
+        <entreprise>
+            <nom>Virtual Technologies</nom>
+            <adresse>
+                <localite>NAMUR</localite>
+                <nom>Rue Borgnet</nom>
+                <numero> 13</numero>
+                <codepostal>5000</codepostal>
+            </adresse>
+            <tel>081/24-92-13</tel>
+            <responsable-stagiaire>
+                <civilite>Mr</civilite>
+                <nom>Coppens</nom>
+            </responsable-stagiaire>
+            <responsable-service>
+                <civilite>Mr</civilite>
+                <nom>Goffin Henri</nom>
+            </responsable-service>
+        </entreprise>
+    </stage>
+    <stage>
+        <fonction >nan</fonction>
+        <etudiant>
+            <nom>Mathieu</nom>
+            <prenom>Thibaut</prenom>
+            <section>informatique</section>
+            <classe>3BI</classe>
+        </etudiant>
+        <entreprise>
+            <nom>I.E.B.S</nom>
+            <adresse>
+                <localite>ZONNING DE FLOREFFE</localite>
+                <nom>Chemin des artisans</nom>
+                <numero> 3c</numero>
+                <codepostal>5150</codepostal>
+            </adresse>
+            <tel>0479/400220</tel>
+            <responsable-stagiaire>
+                <civilite>Mr</civilite>
+                <nom>Davut</nom>
+            </responsable-stagiaire>
+            <responsable-service>
+                <civilite>Mr</civilite>
+                <nom>Hanot</nom>
+            </responsable-service>
+        </entreprise>
+    </stage>
+    <stage>
+        <fonction >Consultant en technologie des medias</fonction>
+        <etudiant>
+            <nom>Plaschaert</nom>
+            <prenom>Charles</prenom>
+            <section>informatique</section>
+            <classe>3BI</classe>
+        </etudiant>
+        <entreprise>
+            <nom>Bmedia</nom>
+            <adresse>
+                <localite>CHARLEROI</localite>
+                <nom>Route de Mons</nom>
+                <numero> 27E</numero>
+                <codepostal>6000</codepostal>
+            </adresse>
+            <tel>071/567169</tel>
+            <responsable-stagiaire>
+                <civilite>Me</civilite>
+                <nom>Peters</nom>
+            </responsable-stagiaire>
+            <responsable-service>
+                <civilite>Mr</civilite>
+                <nom>Herfurth Julien</nom>
+            </responsable-service>
+        </entreprise>
+    </stage>
+    <stage>
+        <fonction >nan</fonction>
+        <etudiant>
+            <nom>Spronken</nom>
+            <prenom>Simon</prenom>
+            <section>informatique</section>
+            <classe>3BI</classe>
+        </etudiant>
+        <entreprise>
+            <nom>Espace Santé</nom>
+            <adresse>
+                <localite>CHARLEROI</localite>
+                <nom>Boulevard Zoé Drion</nom>
+                <numero> 1</numero>
+                <codepostal>6000</codepostal>
+            </adresse>
+            <tel>0477/201324</tel>
+            <responsable-stagiaire>
+                <civilite>Mr</civilite>
+                <nom>Breker</nom>
+            </responsable-stagiaire>
+            <responsable-service>
+                <civilite>Mr</civilite>
+                <nom>Herplelinck Luc</nom>
+            </responsable-service>
+        </entreprise>
+    </stage>
+    <stage>
+        <fonction >Consultant IT</fonction>
+        <etudiant>
+            <nom>Vallée</nom>
+            <prenom>Anthony</prenom>
+            <section>informatique</section>
+            <classe>3BI</classe>
+        </etudiant>
+        <entreprise>
+            <nom>LOGIC CONSULTANCE</nom>
+            <adresse>
+                <localite>CHARLEROI</localite>
+                <nom>Boulevard Tirou</nom>
+                <numero>185</numero>
+                <codepostal>6000</codepostal>
+            </adresse>
+            <tel>071/458629</tel>
+            <responsable-stagiaire>
+                <civilite>Mr</civilite>
+                <nom>Carlot</nom>
+            </responsable-stagiaire>
+            <responsable-service>
+                <civilite>Mr</civilite>
+                <nom>Grioli Johan</nom>
+            </responsable-service>
+        </entreprise>
+    </stage>
+    <stage>
+        <fonction >opérateur industriel et financier dans le secteur des transport</fonction>
+        <etudiant>
+            <nom>Vertosa</nom>
+            <prenom>Damien</prenom>
+            <section>informatique</section>
+            <classe>3BI</classe>
+        </etudiant>
+        <entreprise>
+            <nom>Alstom Belgium Transport</nom>
+            <adresse>
+                <localite>CHARLEROI</localite>
+                <nom>Rue Cambier-Dupret</nom>
+                <numero> 50-52   </numero>
+                <codepostal>6001</codepostal>
+            </adresse>
+            <tel>071/743651</tel>
+            <responsable-stagiaire>
+                <civilite>Mr</civilite>
+                <nom>Van de Wiele</nom>
+            </responsable-stagiaire>
+            <responsable-service>
+                <civilite>Mr</civilite>
+                <nom>Iassinovski Sergueï</nom>
+            </responsable-service>
+        </entreprise>
+    </stage>
+</stages>

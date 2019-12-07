@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Bottin>
+    <Abonne>
+        <Nom>Cambier</Nom>
+        <Prenom>Cédric</Prenom>
+        <Tel prefixe="064" numero="263542"/>
+        <Adresse designation="rue" nom="du puits" numero="56" codepostal="7160"/>
+    </Abonne>
+    <Abonne>
+        <Nom>Dupont</Nom>
+        <Prenom>Alice</Prenom>
+        <Tel prefixe="065" numero="362456"/>
+        <Adresse designation="avenue" nom="De Gaulle" numero="248" codepostal="7000"/>
+    </Abonne>
+    <Abonne>
+        <Nom>Brancart</Nom>
+        <Prenom>Alexandre</Prenom>
+        <Tel prefixe="067" numero="340552"/>
+        <Adresse designation="boulevard" nom="Sanders" numero="87" codepostal="7060"/>
+    </Abonne>
+</Bottin>

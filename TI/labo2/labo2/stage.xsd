@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+    <xs:element name="stages">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element maxOccurs="unbounded" ref="stage"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="stage">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref="fonction"/>
+                <xs:element ref="etudiant"/>
+                <xs:element ref="entreprise"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="fonction" type="xs:string"/>
+    <xs:element name="etudiant">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref="nom"/>
+                <xs:element ref="prenom"/>
+                <xs:element ref="section"/>
+                <xs:element ref="classe"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="prenom" type="xs:NCName"/>
+    <xs:element name="section" type="xs:NCName"/>
+    <xs:element name="classe" type="xs:NMTOKEN"/>
+    <xs:element name="entreprise">
+        <xs:complexType mixed="true">
+            <xs:choice minOccurs="0" maxOccurs="unbounded">
+                <xs:element ref="nom"/>
+                <xs:element ref="adresse"/>
+                <xs:element ref="responsable-service"/>
+                <xs:element ref="responsable-stagiaire"/>
+                <xs:element ref="tel"/>
+            </xs:choice>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="adresse">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref="localite"/>
+                <xs:element ref="nom"/>
+                <xs:element ref="numero"/>
+                <xs:element ref="codepostal"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="localite" type="xs:string"/>
+    <xs:element name="numero" type="xs:NMTOKEN"/>
+    <xs:element name="codepostal" type="xs:integer"/>
+    <xs:element name="responsable-service">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref="civilite"/>
+                <xs:element ref="nom"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="responsable-stagiaire">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref="civilite"/>
+                <xs:element ref="nom"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="tel" type="xs:string"/>
+    <xs:element name="nom" type="xs:string"/>
+    <xs:element name="civilite" type="xs:NCName"/>
+</xs:schema>

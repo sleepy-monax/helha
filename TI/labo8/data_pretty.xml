@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="data.xsl" type="text/xsl"?>
+<accidents>
+	<accident>
+		<day>43422.0</day>
+		<hour>10.0</hour>
+		<day-of-week>7.0</day-of-week>
+		<day-of-week-descr-fr>Dimanche</day-of-week-descr-fr>
+		<day-of-week-descr-nl>zondag</day-of-week-descr-nl>
+		<build-up-area>1.0</build-up-area>
+		<build-up-area-descr-nl>Binnen bebouwde kom</build-up-area-descr-nl>
+		<build-up-area-descr-fr>En agglomération</build-up-area-descr-fr>
+		<coll-type>2.0</coll-type>
+		<coll-type-descr-nl>Frontale botsing (of bij het kruisen)</coll-type-descr-nl>
+		<coll-type-descr-fr>Collision frontale (ou en croisement)</coll-type-descr-fr>
+		<light-cond>1.0</light-cond>
+		<light-cond-descr-nl>Bij klaarlichte dag</light-cond-descr-nl>
+		<light-cond-descr-fr>Plein jour</light-cond-descr-fr>
+		<road-type>2.0</road-type>
+		<road-type-descr-nl>Gewestweg, provincieweg of gemeenteweg</road-type-descr-nl>
+		<road-type-descr-fr>Route régionale, provinciale ou communale</road-type-descr-fr>
+		<munty-refnis>11001</munty-refnis>
+		<munty-descr-nl>Aartselaar</munty-descr-nl>
+		<munty-descr-fr>Aartselaar</munty-descr-fr>
+		<dstr-refnis>11000</dstr-refnis>
+		<adm-dstr-descr-nl>Arrondissement Antwerpen</adm-dstr-descr-nl>
+		<adm-dstr-descr-fr>Arrondissement d’Anvers</adm-dstr-descr-fr>
+		<prov-refnis>10000</prov-refnis>
+		<prov-descr-nl>Provincie Antwerpen</prov-descr-nl>
+		<prov-descr-fr>Province d’Anvers</prov-descr-fr>
+		<rgn-refnis>02000</rgn-refnis>
+		<rgn-descr-nl>Vlaams Gewest</rgn-descr-nl>
+		<rgn-descr-fr>Région flamande</rgn-descr-fr>
+		<acct>1.0</acct>
+		<acct-with-dead>0.0</acct-with-dead>
+		<acct-with-dead-30-days>0.0</acct-with-dead-30-days>
+		<acct-with-mory-inj>0.0</acct-with-mory-inj>
+		<acct-with-serly-inj>0.0</acct-with-serly-inj>
+		<acct-with-sly-inj>1.0</acct-with-sly-inj>
+	</accident>
+	<accident>
+		<day>43412.0</day>
+		<hour>15.0</hour>
+		<day-of-week>4.0</day-of-week>
+		<day-of-week-descr-fr>Jeudi</day-of-week-descr-fr>
+		<day-of-week-descr-nl>donderdag</day-of-week-descr-nl>
+		<build-up-area>1.0</build-up-area>
+		<build-up-area-descr-nl>Binnen bebouwde kom</build-up-area-descr-nl>
+		<build-up-area-descr-fr>En agglomération</build-up-area-descr-fr>
+		<coll-type/>
+		<coll-type-descr-nl>Niet beschikbaar</coll-type-descr-nl>
+		<coll-type-descr-fr>Non disponible</coll-type-descr-fr>
+		<light-cond>1.0</light-cond>
+		<light-cond-descr-nl>Bij klaarlichte dag</light-cond-descr-nl>
+		<light-cond-descr-fr>Plein jour</light-cond-descr-fr>
+		<road-type>2.0</road-type>
+		<road-type-descr-nl>Gewestweg, provincieweg of gemeenteweg</road-type-descr-nl>
+		<road-type-descr-fr>Route régionale, provinciale ou communale</road-type-descr-fr>
+		<munty-refnis>11001</munty-refnis>
+		<munty-descr-nl>Aartselaar</munty-descr-nl>
+		<munty-descr-fr>Aartselaar</munty-descr-fr>
+		<dstr-refnis>11000</dstr-refnis>
+		<adm-dstr-descr-nl>Arrondissement Antwerpen</adm-dstr-descr-nl>
+		<adm-dstr-descr-fr>Arrondissement d’Anvers</adm-dstr-descr-fr>
+		<prov-refnis>10000</prov-refnis>
+		<prov-descr-nl>Provincie Antwerpen</prov-descr-nl>
+		<prov-descr-fr>Province d’Anvers</prov-descr-fr>
+		<rgn-refnis>02000</rgn-refnis>
+		<rgn-descr-nl>Vlaams Gewest</rgn-descr-nl>
+		<rgn-descr-fr>Région flamande</rgn-descr-fr>
+		<acct>1.0</acct>
+		<acct-with-dead>0.0</acct-with-dead>
+		<acct-with-dead-30-days>0.0</acct-with-dead-30-days>
+		<acct-with-mory-inj>0.0</acct-with-mory-inj>
+		<acct-with-serly-inj>1.0</acct-with-serly-inj>
+		<acct-with-sly-inj>0.0</acct-with-sly-inj>
+	</accident>
+	<accident>
+		<day>43431.0</day>
+		<hour>18.0</hour>
+		<day-of-week>2.0</day-of-week>
+		<day-of-week-descr-fr>Mardi</day-of-week-descr-fr>
+		<day-of-week-descr-nl>dinsdag</day-of-week-descr-nl>
+		<build-up-area>1.0</build-up-area>
+		<build-up-area-descr-nl>Binnen bebouwde kom</build-up-area-descr-nl>
+		<build-up-area-descr-fr>En agglomération</build-up-area-descr-fr>
+		<coll-type>4.0</coll-type>
+		<coll-type-descr-nl>Langs opzij</coll-type-descr-nl>
+		<coll-type-descr-fr>Par le côté</coll-type-descr-fr>
+		<light-cond>3.0</light-cond>
+		<light-cond-descr-nl>Nacht, ontstoken openbare verlichting</light-cond-descr-nl>
+		<light-cond-descr-fr>Nuit, éclairage public allumé</light-cond-descr-fr>
+		<road-type>2.0</road-type>
+		<road-type-descr-nl>Gewestweg, provincieweg of gemeenteweg</road-type-descr-nl>
+		<road-type-descr-fr>Route régionale, provinciale ou communale</road-type-descr-fr>
+		<munty-refnis>11001</munty-refnis>
+		<munty-descr-nl>Aartselaar</munty-descr-nl>
+		<munty-descr-fr>Aartselaar</munty-descr-fr>
+		<dstr-refnis>11000</dstr-refnis>
+		<adm-dstr-descr-nl>Arrondissement Antwerpen</adm-dstr-descr-nl>
+		<adm-dstr-descr-fr>Arrondissement d’Anvers</adm-dstr-descr-fr>
+		<prov-refnis>10000</prov-refnis>
+		<prov-descr-nl>Provincie Antwerpen</prov-descr-nl>
+		<prov-descr-fr>Province d’Anvers</prov-descr-fr>
+		<rgn-refnis>02000</rgn-refnis>
+		<rgn-descr-nl>Vlaams Gewest</rgn-descr-nl>
+		<rgn-descr-fr>Région flamande</rgn-descr-fr>
+		<acct>1.0</acct>
+		<acct-with-dead>0.0</acct-with-dead>
+		<acct-with-dead-30-days>0.0</acct-with-dead-30-days>
+		<acct-with-mory-inj>0.0</acct-with-mory-inj>
+		<acct-with-serly-inj>0.0</acct-with-serly-inj>
+		<acct-with-sly-inj>1.0</acct-with-sly-inj>
+	</accident>
+	<accident>
+		<day>43230.0</day>
+		<hour>17.0</hour>
+		<day-of-week>4.0</day-of-week>
+		<day-of-week-descr-fr>Jeudi</day-of-week-descr-fr>
+		<day-of-week-descr-nl>donderdag</day-of-week-descr-nl>
+		<build-up-area>2.0</build-up-area>
+		<build-up-area-descr-nl>Buiten bebouwde kom</build-up-area-descr-nl>
+		<build-up-area-descr-fr>Hors agglomération</build-up-area-descr-fr>
+		<coll-type>3.0</coll-type>
+		<coll-type-descr-nl>Langs achteren (of naast elkaar)</coll-type-descr-nl>
+		<coll-type-descr-fr>Par l'arrière (ou en parallèle)</coll-type-descr-fr>
+		<light-cond>1.0</light-cond>
+		<light-cond-descr-nl>Bij klaarlichte dag</light-cond-descr-nl>
+		<light-cond-descr-fr>Plein jour</light-cond-descr-fr>
+		<road-type>2.0</road-type>
+		<road-type-descr-nl>Gewestweg, provincieweg of gemeenteweg</road-type-descr-nl>
+		<road-type-descr-fr>Route régionale, provinciale ou communale</road-type-descr-fr>
+		<munty-refnis>11001</munty-refnis>
+		<munty-descr-nl>Aartselaar</munty-descr-nl>
+		<munty-descr-fr>Aartselaar</munty-descr-fr>
+		<dstr-refnis>11000</dstr-refnis>
+		<adm-dstr-descr-nl>Arrondissement Antwerpen</adm-dstr-descr-nl>
+		<adm-dstr-descr-fr>Arrondissement d’Anvers</adm-dstr-descr-fr>
+		<prov-refnis>10000</prov-refnis>
+		<prov-descr-nl>Provincie Antwerpen</prov-descr-nl>
+		<prov-descr-fr>Province d’Anvers</prov-descr-fr>
+		<rgn-refnis>02000</rgn-refnis>
+		<rgn-descr-nl>Vlaams Gewest</rgn-descr-nl>
+		<rgn-descr-fr>Région flamande</rgn-descr-fr>
+		<acct>1.0</acct>
+		<acct-with-dead>0.0</acct-with-dead>
+		<acct-with-dead-30-days>0.0</acct-with-dead-30-days>
+		<acct-with-mory-inj>0.0</acct-with-mory-inj>
+		<acct-with-serly-inj>0.0</acct-with-serly-inj>
+		<acct-with-sly-inj>1.0</acct-with-sly-inj>
+	</accident>
+	<accident>
+		<day>43377.0</day>
+		<hour>21.0</hour>
+		<day-of-week>4.0</day-of-week>
+		<day-of-week-descr-fr>Jeudi</day-of-week-descr-fr>
+		<day-of-week-descr-nl>donderdag</day-of-week-descr-nl>
+		<build-up-area>2.0</build-up-area>
+		<build-up-area-descr-nl>Buiten bebouwde kom</build-up-area-descr-nl>
+		<build-up-area-descr-fr>Hors agglomération</build-up-area-descr-fr>
+		<coll-type>7.0</coll-type>
+		<coll-type-descr-nl>Tegen een hindernis buiten de rijbaan</coll-type-descr-nl>
+		<coll-type-descr-fr>Contre un obstacle hors de la chaussée</coll-type-descr-fr>
+		<light-cond>2.0</light-cond>
+		<light-cond-descr-nl>Dageraad - schemering</light-cond-descr-nl>
+		<light-cond-descr-fr>Aube, crépuscule</light-cond-descr-fr>
+		<road-type>2.0</road-type>
+		<road-type-descr-nl>Gewestweg, provincieweg of gemeenteweg</road-type-descr-nl>
+		<road-type-descr-fr>Route régionale, provinciale ou communale</road-type-descr-fr>
+		<munty-refnis>11001</munty-refnis>
+		<munty-descr-nl>Aartselaar</munty-descr-nl>
+		<munty-descr-fr>Aartselaar</munty-descr-fr>
+		<dstr-refnis>11000</dstr-refnis>
+		<adm-dstr-descr-nl>Arrondissement Antwerpen</adm-dstr-descr-nl>
+		<adm-dstr-descr-fr>Arrondissement d’Anvers</adm-dstr-descr-fr>
+		<prov-refnis>10000</prov-refnis>
+		<prov-descr-nl>Provincie Antwerpen</prov-descr-nl>
+		<prov-descr-fr>Province d’Anvers</prov-descr-fr>
+		<rgn-refnis>02000</rgn-refnis>
+		<rgn-descr-nl>Vlaams Gewest</rgn-descr-nl>
+		<rgn-descr-fr>Région flamande</rgn-descr-fr>
+		<acct>1.0</acct>
+		<acct-with-dead>0.0</acct-with-dead>
+		<acct-with-dead-30-days>0.0</acct-with-dead-30-days>
+		<acct-with-mory-inj>0.0</acct-with-mory-inj>
+		<acct-with-serly-inj>1.0</acct-with-serly-inj>
+		<acct-with-sly-inj>0.0</acct-with-sly-inj>
+	</accident>
+	<accident>
+		<day>43215.0</day>
+		<hour>8.0</hour>
+		<day-of-week>3.0</day-of-week>
+		<day-of-week-descr-fr>Mercredi</day-of-week-descr-fr>
+		<day-of-week-descr-nl>woensdag</day-of-week-descr-nl>
+		<build-up-area>1.0</build-up-area>
+		<build-up-area-descr-nl>Binnen bebouwde kom</build-up-area-descr-nl>
+		<build-up-area-descr-fr>En agglomération</build-up-area-descr-fr>
+		<coll-type>4.0</coll-type>
+		<coll-type-descr-nl>Langs opzij</coll-type-descr-nl>
+		<coll-type-descr-fr>Par le côté</coll-type-descr-fr>
+		<light-cond>1.0</light-cond>
+		<light-cond-descr-nl>Bij klaarlichte dag</light-cond-descr-nl>
+		<light-cond-descr-fr>Plein jour</light-cond-descr-fr>
+		<road-type>2.0</road-type>
+		<road-type-descr-nl>Gewestweg, provincieweg of gemeenteweg</road-type-descr-nl>
+		<road-type-descr-fr>Route régionale, provinciale ou communale</road-type-descr-fr>
+		<munty-refnis>11001</munty-refnis>
+		<munty-descr-nl>Aartselaar</munty-descr-nl>
+		<munty-descr-fr>Aartselaar</munty-descr-fr>
+		<dstr-refnis>11000</dstr-refnis>
+		<adm-dstr-descr-nl>Arrondissement Antwerpen</adm-dstr-descr-nl>
+		<adm-dstr-descr-fr>Arrondissement d’Anvers</adm-dstr-descr-fr>
+		<prov-refnis>10000</prov-refnis>
+		<prov-descr-nl>Provincie Antwerpen</prov-descr-nl>
+		<prov-descr-fr>Province d’Anvers</prov-descr-fr>
+		<rgn-refnis>02000</rgn-refnis>
+		<rgn-descr-nl>Vlaams Gewest</rgn-descr-nl>
+		<rgn-descr-fr>Région flamande</rgn-descr-fr>
+		<acct>1.0</acct>
+		<acct-with-dead>0.0</acct-with-dead>
+		<acct-with-dead-30-days>0.0</acct-with-dead-30-days>
+		<acct-with-mory-inj>0.0</acct-with-mory-inj>
+		<acct-with-serly-inj>0.0</acct-with-serly-inj>
+		<acct-with-sly-inj>1.0</acct-with-sly-inj>
+	</accident>
+	<accident>
+		<day>43356.0</day>
+		<hour>9.0</hour>
+		<day-of-week>4.0</day-of-week>
+		<day-of-week-descr-fr>Jeudi</day-of-week-descr-fr>
+		<day-of-week-descr-nl>donderdag</day-of-week-descr-nl>
+		<build-up-area>1.0</build-up-area>
+		<build-up-area-descr-nl>Binnen bebouwde kom</build-up-area-descr-nl>
+		<build-up-area-descr-fr>En agglomération</build-up-area-descr-fr>
+		<coll-type>4.0</coll-type>
+		<coll-type-descr-nl>Langs opzij</coll-type-descr-nl>
+		<coll-type-descr-fr>Par le côté</coll-type-descr-fr>
+		<light-cond>1.0</light-cond>
+		<light-cond-descr-nl>Bij klaarlichte dag</light-cond-descr-nl>
+		<light-cond-descr-fr>Plein jour</light-cond-descr-fr>
+		<road-type>2.0</road-type>
+		<road-type-descr-nl>Gewestweg, provincieweg of gemeenteweg</road-type-descr-nl>
+		<road-type-descr-fr>Route régionale, provinciale ou communale</road-type-descr-fr>
+		<munty-refnis>11001</munty-refnis>
+		<munty-descr-nl>Aartselaar</munty-descr-nl>
+		<munty-descr-fr>Aartselaar</munty-descr-fr>
+		<dstr-refnis>11000</dstr-refnis>
+		<adm-dstr-descr-nl>Arrondissement Antwerpen</adm-dstr-descr-nl>
+		<adm-dstr-descr-fr>Arrondissement d’Anvers</adm-dstr-descr-fr>
+		<prov-refnis>10000</prov-refnis>
+		<prov-descr-nl>Provincie Antwerpen</prov-descr-nl>
+		<prov-descr-fr>Province d’Anvers</prov-descr-fr>
+		<rgn-refnis>02000</rgn-refnis>
+		<rgn-descr-nl>Vlaams Gewest</rgn-descr-nl>
+		<rgn-descr-fr>Région flamande</rgn-descr-fr>
+		<acct>1.0</acct>
+		<acct-with-dead>0.0</acct-with-dead>
+		<acct-with-dead-30-days>0.0</acct-with-dead-30-days>
+		<acct-with-mory-inj>0.0</acct-with-mory-inj>
+		<acct-with-serly-inj>0.0</acct-with-serly-inj>
+		<acct-with-sly-inj>1.0</acct-with-sly-inj>
+	</accident>
+	<accident>
+		<day>43363.0</day>
+		<hour>18.0</hour>
+		<day-of-week>4.0</day-of-week>
+		<day-of-week-descr-fr>Jeudi</day-of-week-descr-fr>
+		<day-of-week-descr-nl>donderdag</day-of-week-descr-nl>
+		<build-up-area>2.0</build-up-area>
+		<build-up-area-descr-nl>Buiten bebouwde kom</build-up-area-descr-nl>
+		<build-up-area-descr-fr>Hors agglomération</build-up-area-descr-fr>
+		<coll-type>4.0</coll-type>
+		<coll-type-descr-nl>Langs opzij</coll-type-descr-nl>
+		<coll-type-descr-fr>Par le côté</coll-type-descr-fr>
+		<light-cond>1.0</light-cond>
+		<light-cond-descr-nl>Bij klaarlichte dag</light-cond-descr-nl>
+		<light-cond-descr-fr>Plein jour</light-cond-descr-fr>
+		<road-type>2.0</road-type>
+		<road-type-descr-nl>Gewestweg, provincieweg of gemeenteweg</road-type-descr-nl>
+		<road-type-descr-fr>Route régionale, provinciale ou communale</road-type-descr-fr>
+		<munty-refnis>11001</munty-refnis>
+		<munty-descr-nl>Aartselaar</munty-descr-nl>
+		<munty-descr-fr>Aartselaar</munty-descr-fr>
+		<dstr-refnis>11000</dstr-refnis>
+		<adm-dstr-descr-nl>Arrondissement Antwerpen</adm-dstr-descr-nl>
+		<adm-dstr-descr-fr>Arrondissement d’Anvers</adm-dstr-descr-fr>
+		<prov-refnis>10000</prov-refnis>
+		<prov-descr-nl>Provincie Antwerpen</prov-descr-nl>
+		<prov-descr-fr>Province d’Anvers</prov-descr-fr>
+		<rgn-refnis>02000</rgn-refnis>
+		<rgn-descr-nl>Vlaams Gewest</rgn-descr-nl>
+		<rgn-descr-fr>Région flamande</rgn-descr-fr>
+		<acct>1.0</acct>
+		<acct-with-dead>0.0</acct-with-dead>
+		<acct-with-dead-30-days>0.0</acct-with-dead-30-days>
+		<acct-with-mory-inj>0.0</acct-with-mory-inj>
+		<acct-with-serly-inj>0.0</acct-with-serly-inj>
+		<acct-with-sly-inj>1.0</acct-with-sly-inj>
+	</accident>
+	<accident>
+		<day>43263.0</day>
+		<hour>17.0</hour>
+		<day-of-week>2.0</day-of-week>
+		<day-of-week-descr-fr>Mardi</day-of-week-descr-fr>
+		<day-of-week-descr-nl>dinsdag</day-of-week-descr-nl>
+		<build-up-area>2.0</build-up-area>
+		<build-up-area-descr-nl>Buiten bebouwde kom</build-up-area-descr-nl>
+		<build-up-area-descr-fr>Hors agglomération</build-up-area-descr-fr>
+		<coll-type>1.0</coll-type>
+		<coll-type-descr-nl>Kettingbotsing (4 bestuurders of meer)</coll-type-descr-nl>
+		<coll-type-descr-fr>Collision en chaine (entre 4 conducteurs ou plus)</coll-type-descr-fr>
+		<light-cond>1.0</light-cond>
+		<light-cond-descr-nl>Bij klaarlichte dag</light-cond-descr-nl>
+		<light-cond-descr-fr>Plein jour</light-cond-descr-fr>
+		<road-type>2.0</road-type>
+		<road-type-descr-nl>Gewestweg, provincieweg of gemeenteweg</road-type-descr-nl>
+		<road-type-descr-fr>Route régionale, provinciale ou communale</road-type-descr-fr>
+		<munty-refnis>11001</munty-refnis>
+		<munty-descr-nl>Aartselaar</munty-descr-nl>
+		<munty-descr-fr>Aartselaar</munty-descr-fr>
+		<dstr-refnis>11000</dstr-refnis>
+		<adm-dstr-descr-nl>Arrondissement Antwerpen</adm-dstr-descr-nl>
+		<adm-dstr-descr-fr>Arrondissement d’Anvers</adm-dstr-descr-fr>
+		<prov-refnis>10000</prov-refnis>
+		<prov-descr-nl>Provincie Antwerpen</prov-descr-nl>
+		<prov-descr-fr>Province d’Anvers</prov-descr-fr>
+		<rgn-refnis>02000</rgn-refnis>
+		<rgn-descr-nl>Vlaams Gewest</rgn-descr-nl>
+		<rgn-descr-fr>Région flamande</rgn-descr-fr>
+		<acct>1.0</acct>
+		<acct-with-dead>0.0</acct-with-dead>
+		<acct-with-dead-30-days>0.0</acct-with-dead-30-days>
+		<acct-with-mory-inj>0.0</acct-with-mory-inj>
+		<acct-with-serly-inj>0.0</acct-with-serly-inj>
+		<acct-with-sly-inj>1.0</acct-with-sly-inj>
+	</accident>
+	<accident>
+		<day>43444.0</day>
+		<hour>17.0</hour>
+		<day-of-week>1.0</day-of-week>
+		<day-of-week-descr-fr>Lundi</day-of-week-descr-fr>
+		<day-of-week-descr-nl>maandag</day-of-week-descr-nl>
+		<build-up-area>1.0</build-up-area>
+		<build-up-area-descr-nl>Binnen bebouwde kom</build-up-area-descr-nl>
+		<build-up-area-descr-fr>En agglomération</build-up-area-descr-fr>
+		<coll-type>2.0</coll-type>
+		<coll-type-descr-nl>Frontale botsing (of bij het kruisen)</coll-type-descr-nl>
+		<coll-type-descr-fr>Collision frontale (ou en croisement)</coll-type-descr-fr>
+		<light-cond>2.0</light-cond>
+		<light-cond-descr-nl>Dageraad - schemering</light-cond-descr-nl>
+		<light-cond-descr-fr>Aube, crépuscule</light-cond-descr-fr>
+		<road-type>2.0</road-type>
+		<road-type-descr-nl>Gewestweg, provincieweg of gemeenteweg</road-type-descr-nl>
+		<road-type-descr-fr>Route régionale, provinciale ou communale</road-type-descr-fr>
+		<munty-refnis>11001</munty-refnis>
+		<munty-descr-nl>Aartselaar</munty-descr-nl>
+		<munty-descr-fr>Aartselaar</munty-descr-fr>
+		<dstr-refnis>11000</dstr-refnis>
+		<adm-dstr-descr-nl>Arrondissement Antwerpen</adm-dstr-descr-nl>
+		<adm-dstr-descr-fr>Arrondissement d’Anvers</adm-dstr-descr-fr>
+		<prov-refnis>10000</prov-refnis>
+		<prov-descr-nl>Provincie Antwerpen</prov-descr-nl>
+		<prov-descr-fr>Province d’Anvers</prov-descr-fr>
+		<rgn-refnis>02000</rgn-refnis>
+		<rgn-descr-nl>Vlaams Gewest</rgn-descr-nl>
+		<rgn-descr-fr>Région flamande</rgn-descr-fr>
+		<acct>1.0</acct>
+		<acct-with-dead>0.0</acct-with-dead>
+		<acct-with-dead-30-days>0.0</acct-with-dead-30-days>
+		<acct-with-mory-inj>0.0</acct-with-mory-inj>
+		<acct-with-serly-inj>0.0</acct-with-serly-inj>
+		<acct-with-sly-inj>1.0</acct-with-sly-inj>
+	</accident>
+</accidents>

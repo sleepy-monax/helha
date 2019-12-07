@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<diagram program="umlet" version="14.3.0">
+  <zoom_level>10</zoom_level>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>650</x>
+      <y>90</y>
+      <w>100</w>
+      <h>80</h>
+    </coordinates>
+    <panel_attributes>Book
+--
+ISBN
+Title
+Publisher</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>330</x>
+      <y>90</y>
+      <w>100</w>
+      <h>110</h>
+    </coordinates>
+    <panel_attributes>Author
+--
+FirstName
+LastName
+Pseudo
+Birth</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>420</x>
+      <y>130</y>
+      <w>250</w>
+      <h>40</h>
+    </coordinates>
+    <panel_attributes>lt=-
+m1=1..N
+m2=0-N</panel_attributes>
+    <additional_attributes>230.0;10.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Text</id>
+    <coordinates>
+      <x>490</x>
+      <y>120</y>
+      <w>100</w>
+      <h>40</h>
+    </coordinates>
+    <panel_attributes>// Boundary Element
+Write
+
+halign=CENTER
+customelement=
+drawLine(16, 0, 0, height/2)
+drawLine(16, height, 0, height/2)
+drawLine(width-16, width, width, height/2)
+drawLine(width-16, 0, width, height/2)
+drawLine(width-16, 0, 16, 0)
+drawLine(width-16, height, 16, height)
+	</panel_attributes>
+    <additional_attributes/>
+  </element>
+</diagram>

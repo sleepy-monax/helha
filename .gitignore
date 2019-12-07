@@ -1,0 +1,9 @@
+*.class
+*.jar
+*.xlsx#
+*.zip
+.vscode/
+*.log
+*.out
+*.o
+*.d

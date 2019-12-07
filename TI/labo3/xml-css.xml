@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="css.css" type="text/css"?>
+<racine>
+    <enfant>
+        <nom>Loïc</nom>
+        <lien>garçon</lien>
+        <date>07/11/83</date>
+        <data>Le petit qui me dépasse d'une tête.</data>
+    </enfant>
+    <enfant>
+        <nom>Marine</nom>
+        <lien>fille</lien>
+        <date>20/12/85</date>
+        <data>La petite fille chérie à son papa.</data>
+    </enfant>
+</racine>

@@ -1,0 +1,29 @@
+nom {
+ display: block;
+ width: 250px;
+ font-size: 16pt ;
+ font-family: arial ;
+ font-weight: bold;
+ background-color: teal;
+ color: white;
+ padding-left: 10px;
+}
+lien {
+ display: block;
+ font-size: 12pt;
+ padding-left: 10px;
+}
+date {
+ display: block;
+ font-size: 12pt;
+ color: red ;
+ font-weight: bold;
+ padding-left: 10px;
+}
+data {
+ display: block;
+ font-size: 11pt ;
+ font-style: italic;
+ font-family: arial ;
+ padding-left: 10px;
+}

@@ -1,0 +1,20 @@
+create database exemple_1
+if not exists
+character set = 'utf8';
+
+USE exemple_1;
+
+create table if not exists serie (
+    idserie int unsigned not null auto_increment,
+    nom varchar(64) not null,
+    budget decimal(12, 3),
+    primary key(idserie)
+) engine=innodb;
+
+create table if not exists episode (
+    numep int smallint unsigned not null,
+    idserie int not null,
+    titreep varchar(64) not null,
+    primary key(numep, idserie),
+    key(idserie)
+) engine=innodb;

@@ -1,0 +1,44 @@
+Bottin {
+    widows: 100em;
+    display: block;
+    font-family: arial;
+}
+
+Abonne {
+    padding: 1em;
+    display: block;
+}
+
+Nom {
+    font-size: 16pt;
+}
+
+Prenom {
+    font-size: 16pt;
+
+}
+
+Tel::before {
+    content: "tel: ";
+}
+
+Tel {
+    display: block;
+}
+
+Adresse::before {
+    content: "adress: ";
+
+}
+
+Adresse {
+    display: block;
+}
+
+designation {}
+
+Adresse-nom {}
+
+numero {}
+
+codepostal {}

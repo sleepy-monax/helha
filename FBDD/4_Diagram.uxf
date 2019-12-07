@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<diagram program="umlet" version="14.3.0">
+  <zoom_level>10</zoom_level>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>90</x>
+      <y>100</y>
+      <w>100</w>
+      <h>160</h>
+    </coordinates>
+    <panel_attributes>Magasin
+--
+id
+address</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>220</x>
+      <y>80</y>
+      <w>100</w>
+      <h>170</h>
+    </coordinates>
+    <panel_attributes>Article
+--
+date_achat
+remise
+prix_vente
+prix_revient</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>120</x>
+      <y>320</y>
+      <w>100</w>
+      <h>110</h>
+    </coordinates>
+    <panel_attributes>Achat
+--
+id
+libelle
+prix
+revient</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>240</x>
+      <y>310</y>
+      <w>100</w>
+      <h>110</h>
+    </coordinates>
+    <panel_attributes>Employés
+--
+matricule
+nom
+prenom
+date
+salaire</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>120</x>
+      <y>460</y>
+      <w>100</w>
+      <h>140</h>
+    </coordinates>
+    <panel_attributes>Client
+--
+id
+nom
+prenom
+telephone
+email
+localiter</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>60</x>
+      <y>10</y>
+      <w>100</w>
+      <h>60</h>
+    </coordinates>
+    <panel_attributes>Evenement
+--
+nom
+date</panel_attributes>
+    <additional_attributes/>
+  </element>
+</diagram>

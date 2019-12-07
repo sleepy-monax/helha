@@ -1,0 +1,14 @@
+<?xml encoding="UTF-8"?>
+
+<!ELEMENT Bottin (Abonne)+>
+<!ELEMENT Abonne (Nom,Prenom,Tel,Adresse)>
+<!ELEMENT Nom (#PCDATA)>
+<!ELEMENT Prenom (#PCDATA)>
+<!ELEMENT Tel EMPTY>
+<!ELEMENT Adresse EMPTY>
+<!ATTLIST Tel numero CDATA #REQUIRED prefixe CDATA #REQUIRED>
+<!ATTLIST Adresse
+  codepostal CDATA #REQUIRED
+  designation NMTOKEN #REQUIRED
+  nom CDATA #REQUIRED
+  numero CDATA #REQUIRED>

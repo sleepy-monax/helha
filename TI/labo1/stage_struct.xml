@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<stages>
+    <stage>
+        <fonction>
+            Consultance en IT
+        </fonction>
+        <etudiant>
+            <nom>Cambier</nom>w
+            <prenom>Cédric</prenom>
+            <section>IG</section>
+            <classe>3</classe>
+        </etudiant>
+        <entreprise>
+            <nom>Infrabel</nom>
+            <adresse>
+                <localite>mons</localite>
+                <designation>rue</designation>
+                <nom>du puits</nom>
+                <numero>56</numero>
+                <codepostal>7160</codepostal>
+            </adresse>
+            <tel>
+                <prefixe>064</prefixe>
+                <numero>263542</numero>
+            </tel>
+            <responsable-stagiaire>
+                <civilite>Mr</civilite>
+                <nom>Libert</nom>
+            </responsable-stagiaire>
+            <responsable-service>
+                <civilite>Mr</civilite>
+                <nom>Libert</nom>
+            </responsable-service>
+        </entreprise>
+    </stage>
+</stages>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet href="style.css" type="text/css"?>
+<Bottin>
+    <Abonne>
+        <Nom>Cambier</Nom>
+        <Prenom>Cédric</Prenom>
+        <Tel>064-263542</Tel>
+        <Adresse>
+            <designation>rue</designation>
+            <Adresse-nom>du puits</Adresse-nom>
+            <numero>56</numero>
+            <codepostal>7160</codepostal>
+        </Adresse>
+    </Abonne>
+    <Abonne>
+        <Nom>Dupont</Nom>
+        <Prenom>Alice</Prenom>
+        <Tel>065-362456</Tel>
+        <Adresse>
+            <designation>avenue</designation>
+            <Adresse-nom>De Gaulle</Adresse-nom>
+            <numero>248</numero>
+            <codepostal>7000</codepostal>
+        </Adresse>
+    </Abonne>
+    <Abonne>
+        <Nom>Brancart</Nom>
+        <Prenom>Alexandre</Prenom>
+        <Tel>067-340552</Tel>
+        <Adresse>
+            <designation>boulevard</designation>
+            <Adresse-nom>Sanders</Adresse-nom>
+            <numero>87</numero>
+            <codepostal>7060</codepostal>
+        </Adresse>
+    </Abonne>
+</Bottin>
