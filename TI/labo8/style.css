@@ -1,0 +1,72 @@
+body {
+    margin: 0;
+    background-color: #EEE;
+    font-family: sans-serif;
+}
+
+.wrapper {
+    grid-gap: 0px 1em;
+    display: grid;
+    grid-template-columns: 24em 1fr;
+    grid-template-rows: 4vh 1fr 4vh;
+    grid-template-areas: "menu header""menu view""menu status";
+    height: 100vh;
+
+}
+
+.view {
+    grid-area: view;
+}
+
+.status {
+    display: flex;
+    align-items: center;
+    grid-area: status;
+    background-color: #CCC;
+
+}
+
+.header {
+    display: flex;
+    align-items: center;
+    grid-area: header;
+    background-color: #CCC;
+}
+
+.menu {
+    border-radius: 0.25em;
+    margin: 1em;
+    grid-area: menu;
+    background-color: #fff;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.19);
+}
+
+.menu h1 {
+    padding: 0.25em;
+    margin: 0;
+}
+
+.menu-item {
+    padding: 0.5em;
+}
+
+.zui-table {
+    border: solid 1px #555;
+    border-collapse: collapse;
+    border-spacing: 0;
+    font: normal 13px Arial, sans-serif;
+}
+
+.zui-table thead th {
+    background-color: #fff;
+    border: solid 1px #555;
+    color: #336B6B;
+    padding: 10px;
+    text-align: left;
+}
+
+.zui-table tbody td {
+    border: solid 1px #555;
+    color: #333;
+    padding: 10px;
+}

@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" type="text/css"
+        href="https://cdnjs.cloudflare.com/ajax/libs/clusterize.js/0.18.0/clusterize.min.css">
+    <link rel="stylesheet" type="text/css" href="index.css">
+
+    <title>Accidents</title>
+</head>
+
+<body>
+    <div id="wrapper">
+        <div id="content" style="height: 80vh;">
+            <div id="table-scroll" class="clusterize-scroll" style="overflow-x: hidden;">
+                <table class="zui-table" style="margin: auto;">
+                    <tbody id="table-content" class="clusterize-content">
+                        <tr class="clusterize-no-data">
+                            <td style="padding: 4em; background-color: #EfEfEf;"><img src="spinner.gif"
+                                    style="margin: auto;" />
+                                <div style="margin: auto;">Loading data…</div>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+        <div id="header" style="height: 15vh;" style="box-shadow: black 4em 4em 4em;">
+            <div id="menu-bar">
+                <select id="list-language" onchange="reload_view()">
+                    <option value="fr">Francais</option>
+                    <option value="nl">Nederlands</option>
+                </select>
+
+                <input id="input-date" type="date" onchange="display_list()" />
+                <select id="list-area" onchange="display_list()"></select>
+                <select id="list-colltype" onchange="display_list()"></select>
+                <select id="list-commune" onchange="display_list()"></select>
+                <select id="list-dayofweek" onchange="display_list()"></select>
+                <select id="list-lightcond" onchange="display_list()"></select>
+                <select id="list-province" onchange="display_list()"></select>
+                <select id="list-region" onchange="display_list()"></select>
+                <select id="list-roadtype" onchange="display_list()"></select>
+            </div>
+        </div>
+        <div id="status" style="height: 3vh; background-color: blueviolet; color:white; text-align: center;">
+            Downloading data…
+        </div>
+    </div>
+
+</body>
+
+<script src="index.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/clusterize.js/0.18.0/clusterize.min.js"></script>
+
+</html>

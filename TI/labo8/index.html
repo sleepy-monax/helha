@@ -1,59 +1,97 @@
 <!DOCTYPE html>
-<html lang="fr">
+<html lang="en">
 
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=1366, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <link rel="stylesheet" type="text/css"
-        href="https://cdnjs.cloudflare.com/ajax/libs/clusterize.js/0.18.0/clusterize.min.css">
-    <link rel="stylesheet" type="text/css" href="index.css">
+    <link rel="stylesheet" type="text/css" href="style.css">
 
     <title>Accidents</title>
 </head>
 
 <body>
-    <div id="wrapper">
-        <div id="header" style="height: 10vh;" style="box-shadow: black 4em 4em 4em;">
-            <div id="menu-bar">
-                <select id="list-language" onchange="reload_view()">
-                    <option value="fr">Francais</option>
-                    <option value="nl">Nederlands</option>
-                </select>
-
-                <input id="input-date" type="date" onchange="display_list()" />
-                <select id="list-area" onchange="display_list()"></select>
-                <select id="list-colltype" onchange="display_list()"></select>
-                <select id="list-commune" onchange="display_list()"></select>
-                <select id="list-dayofweek" onchange="display_list()"></select>
-                <select id="list-lightcond" onchange="display_list()"></select>
-                <select id="list-province" onchange="display_list()"></select>
-                <select id="list-region" onchange="display_list()"></select>
-                <select id="list-roadtype" onchange="display_list()"></select>
-            </div>
-        </div>
-        <div id="content" style="height: 85vh;">
-            <div id="table-scroll" class="clusterize-scroll">
-                <table class="zui-table" style="margin: auto;">
-                    <tbody id="table-content" class="clusterize-content">
-                        <tr class="clusterize-no-data">
-                            <td style="padding: 4em; background-color: #EfEfEf;"><img src="spinner.gif"
-                                    style="margin: auto;" />
-                                <div style="margin: auto;">Loading data…</div>
-                            </td>
-                        </tr>
-                    </tbody>
-                </table>
-            </div>
-        </div>
-        <div id="status" style="height: 5vh;">
-            Downloading data…
-        </div>
-    </div>
 
 </body>
 
-<script src="index.js"></script>
+<div class="wrapper">
+    <div class="header">
+        Accidents en belgique 2018
+    </div>
+    <div class="view">
+        <div id="table-scroll" class="clusterize-scroll" style="overflow-x: hidden; height: 92vh;">
+            <table class="zui-table" style="margin: auto;">
+                <tbody id="table-content" class="clusterize-content">
+                    <tr class="clusterize-no-data">
+                        <td style="padding: 4em; background-color: #EfEfEf;"><img src="spinner.gif"
+                                style="margin: auto;" />
+                            <div style="margin: auto;">Loading data…</div>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+    <div id="status" class="status">
+        Téléchargement des données...
+    </div>
+    <div class="menu">
+        <div class="menu-item">
+            Langue:
+
+            <select id="list-language" onchange="reload_view()">
+                <option value="fr">Francais</option>
+                <option value="nl">Nederlands</option>
+            </select>
+        </div>
+
+        <h1>
+            Filtres
+        </h1>
+        <div class="menu-item">
+            Jour de la semaine:
+            <select id="list-dayofweek" onchange="display_list()"></select>
+        </div>
+        <div class="menu-item">
+            Date:
+            <input id="input-date" type="date" onchange="display_list()" />
+        </div>
+
+        <div class="menu-item">
+            Région:
+            <select id="list-region" onchange="display_list()"></select>
+        </div>
+        <div class="menu-item">
+            Province:
+            <select id="list-province" onchange="display_list()"></select>
+        </div>
+        <div class="menu-item">
+            Commune:
+            <select id="list-commune" onchange="display_list()"></select>
+        </div>
+        <div class="menu-item">
+            Localisation:
+            <select id="list-area" onchange="display_list()"></select>
+        </div>
+
+        <div class="menu-item">
+            Condition de lumiere:
+            <select id="list-lightcond" onchange="display_list()"></select>
+        </div>
+        <div class="menu-item">
+            Type de colision:
+            <select id="list-colltype" onchange="display_list()"></select>
+        </div>
+        <div class="menu-item">
+            Type de route:
+            <select id="list-roadtype" onchange="display_list()"></select>
+        </div>
+    </div>
+</div>
+
 <script src="https://cdnjs.cloudflare.com/ajax/libs/clusterize.js/0.18.0/clusterize.min.js"></script>
+<script src="index.js"></script>
+
+
 
 </html>

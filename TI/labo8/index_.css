@@ -1,0 +1,11 @@
+html,
+body {
+    height: 100vh;
+    margin: 0;
+    font-family: sans-serif;
+}
+
+.clusterize-scroll {
+    max-height: 100%;
+}
+

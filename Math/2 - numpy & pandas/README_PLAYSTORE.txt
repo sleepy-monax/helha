@@ -1,0 +1,5 @@
+Rating, donne la moyenne des avis des utilisateurs (float)
+Reviews, donne le nombre de personnes qui ont donné leur avis (int)
+Size, donne le poids de l'application (float)
+Installs, donne le nombre d'installations de l'application (int)
+Price, donne le prix de l'application (float)

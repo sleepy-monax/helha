@@ -73,8 +73,8 @@ function display_list() {
         rows = [`<tr>
 <th>Date</th>
 <th>Heure</th>
-<th>Jour</th>
 <th>Jour de la semaine</th>
+<th></th>
 <th>Type</th>
 <th>Moment de la journée</th>
 <th>Route</th>
@@ -86,8 +86,8 @@ function display_list() {
         rows = [`<tr>
 <th>Datum</th>
 <th>Tijd</th>
-<th>Day</th>
 <th>Dagvan de week </th>
+<th></th>
 <th>Type</th>
 <th>Tijdstipvan de dag</th>
 <th>Route</th>
